@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Shifa</h1>
 
-<!--
-**shifa0906/shifa0906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Front-End Developer</strong><br/>
+  Passionate about building modern, responsive, and user-friendly web applications.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> Skills & Technologies</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,redux" />
+</p>
+
+---
+
+## What I'm Learning Now 
+- Advanced React patterns  
+- API integration & backend basics  
+- Building scalable UI systems  
+
+---
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shifakarimbanakkal/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50px" alt="LinkedIn"/>
+  </a>
+ 
+</p>
+  
+📩 **shifahasif@gmail.com**
+
+---
+
+## Thanks for Visiting!
+Thanks for visiting my profile! 😊  
+Feel free to check out my repositories and follow my journey.
